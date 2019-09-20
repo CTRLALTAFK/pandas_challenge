@@ -1,0 +1,6 @@
+School Trends based on this data.
+
+       First, I’d like to point out that these are some very strange high schools since they include students with doctorate degrees and dentists etc. I suspect that the students’ names were changed for privacy reasons. That aside, we can clearly see from the data that Charter schools have higher grades across the board.
+	Also, we can see that while small population (<1000 students) and medium population schools (1000-2000 students)  perform about the same, large schools take a huge penalty. In fact, there is a 24% decrease in the percent of total students  who pass math. 
+	Lastly, the schools that spend the most per student also have the lowest passing grade. While at first glance this might seem like a problem, it is more likely that there just happens to be more special needs students at the lower performing schools.
+	This data, is incomplete and misleading because we really need more information about the student population per school instead of just the size. We need to know how many are special needs, or English as a second language or other issues that might disproportionally affect students’ passing grades. 
